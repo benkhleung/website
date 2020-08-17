@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "K.H. Benjamin Leung"
-  avatar           : "profile.png"
-  bio              : "Ph.D. Student, Industrial Engineering"
-  location         : "University of Toronto"
+  avatar           : "avatar.png"
+  bio              : "Ph.D. Student, University of Toronto"
+  location         : 
   employer         :
-  pubmed           : ""
+  pubmed           : "https://publons.com/researcher/3151089/kh-benjamin-leung/"
   googlescholar    : "https://scholar.google.com/citations?user=hqn2lA4AAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
